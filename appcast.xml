@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Harmony</title>
+        <item>
+            <title>0.2.1</title>
+            <pubDate>Thu, 05 Mar 2026 11:44:56 -0600</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://tim-mcdonnell.github.io/harmony-releases/Harmony-0.2.1.dmg" length="26647092" type="application/octet-stream" sparkle:edSignature="13GRFTaIZGIjqEG/IOSxqCYSiX552Ly1uipCQ42AK4sO4BezibcawSsJqIPd4Z1+VIbUM2eJcN1/9xyR2PnsAQ=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Thu, 05 Mar 2026 11:44:56 -0600</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="Harmony-0.1.0.dmg" length="25625899" type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
